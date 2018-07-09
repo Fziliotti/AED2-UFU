@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1530338327 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\arvore\arvore.c
+	"arvore.h"
+
+1530270417 c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\arvore\arvore.h
+	<stdio.h>
+	<stdlib.h>
+
+1530539397 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\arvore\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1530338327 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\arvorebinaria\arvore.c
+	"arvore.h"
+
+1530270417 c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\arvorebinaria\arvore.h
+	<stdio.h>
+	<stdlib.h>
+
+1530539397 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+

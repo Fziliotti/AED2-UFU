@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1530555387 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\arvoregen\arvoregen.c
+	"arvoreGen.h"
+
+1530555645 c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\arvoregen\arvoregen.h
+	<stdio.h>
+	<stdlib.h>
+
+1530555310 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\arvoregen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"arvoreGen.h"
+

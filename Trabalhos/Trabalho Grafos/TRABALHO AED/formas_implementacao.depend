@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1525800751 source:c:\users\marco\onedrive\documentos\ufu\estrutura de dados 2\formas_implementacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1525800814 c:\users\marco\onedrive\documentos\ufu\estrutura de dados 2\formas_implementacao\grafo.h
+	<stdio.h>
+	<stdlib.h>
+
+1525800806 source:c:\users\marco\onedrive\documentos\ufu\estrutura de dados 2\formas_implementacao\grafo.c
+	"Grafo.h"
+
+1526359962 source:c:\users\marco\onedrive\documentos\ufu\estrutura_de_dados2\formas_implementacao\grafo.c
+	"Grafo.h"
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1526357154 c:\users\marco\onedrive\documentos\ufu\estrutura_de_dados2\formas_implementacao\grafo.h
+
+1526359757 source:c:\users\marco\onedrive\documentos\ufu\estrutura_de_dados2\formas_implementacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	<string.h>
+	<conio.h>
+
+1526360020 source:c:\users\ffz12\desktop\formas_implementacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	<string.h>
+	<conio.h>
+
+1526357154 c:\users\ffz12\desktop\formas_implementacao\grafo.h
+
+1526416886 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\trabalhos\trabalho grafos\trabalho aed\grafo.c
+	"Grafo.h"
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1526357154 c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\trabalhos\trabalho grafos\trabalho aed\grafo.h
+
+1526360020 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\trabalhos\trabalho grafos\trabalho aed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	<string.h>
+	<conio.h>
+

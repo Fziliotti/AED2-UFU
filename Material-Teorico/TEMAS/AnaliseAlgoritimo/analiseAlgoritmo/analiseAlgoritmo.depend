@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525805944 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\analisealgoritimo\analisealgoritmo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\arvoreavl\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1530384702 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\arvoreavl\arvore_avl.c
+	"arvore_avl.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1530384700 c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\arvoreavl\arvore_avl.h
+	<stdio.h>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1526345157 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\lista de adjacencias\listadeadjancencia\grafolista.c
+	<stdio.h>
+	<stdlib.h>
+	"grafoLista.h"
+
+1526347055 c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\lista de adjacencias\listadeadjancencia\grafolista.h
+
+1526342151 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\lista de adjacencias\listadeadjancencia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafoLista.h"
+
+1526347343 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios - fabricio ziliotti\listagrafos implementação\ex3\listadeadjancencia\grafolista.c
+	<stdio.h>
+	<stdlib.h>
+	"grafoLista.h"
+
+1526352463 c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios - fabricio ziliotti\listagrafos implementação\ex3\listadeadjancencia\grafolista.h
+
+1526342151 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios - fabricio ziliotti\listagrafos implementação\ex3\listadeadjancencia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafoLista.h"
+

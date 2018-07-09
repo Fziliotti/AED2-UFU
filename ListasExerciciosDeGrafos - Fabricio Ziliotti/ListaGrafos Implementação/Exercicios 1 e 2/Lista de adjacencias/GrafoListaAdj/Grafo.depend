@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1524938365 source:c:\users\breno\documents\programação\aed 2\grafo\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1524938365 c:\users\breno\documents\programação\aed 2\grafo\grafo.h
+
+1524938561 source:c:\users\breno\documents\programação\aed 2\grafo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1525700630 source:c:\users\breno\documents\programação\aed 2\grafo - lista de adjacencias\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1525444648 c:\users\breno\documents\programação\aed 2\grafo - lista de adjacencias\grafo.h
+
+1526080259 source:c:\users\breno\documents\programação\aed 2\grafo - lista de adjacencias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1526348819 source:c:\users\ffz12\desktop\grafo - lista de adjacencias\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1526348819 c:\users\ffz12\desktop\grafo - lista de adjacencias\grafo.h
+
+1526348831 source:c:\users\ffz12\desktop\grafo - lista de adjacencias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1526348880 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios - fabricio ziliotti\listagrafos implementação\ex1 e ex2\lista de adjacencias\grafolistaadj\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1526348819 c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios - fabricio ziliotti\listagrafos implementação\ex1 e ex2\lista de adjacencias\grafolistaadj\grafo.h
+
+1526348831 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios - fabricio ziliotti\listagrafos implementação\ex1 e ex2\lista de adjacencias\grafolistaadj\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1526348831 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios - fabricio ziliotti\listagrafos implementação\exercicios 1 e 2\lista de adjacencias\grafolistaadj\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1526348819 c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios - fabricio ziliotti\listagrafos implementação\exercicios 1 e 2\lista de adjacencias\grafolistaadj\grafo.h
+

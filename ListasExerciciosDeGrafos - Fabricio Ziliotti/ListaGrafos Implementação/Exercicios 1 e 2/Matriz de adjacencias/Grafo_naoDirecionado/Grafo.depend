@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1526331668 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\grafo\grafo.c
+	"Grafo.h"
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1526331256 c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\grafo\grafo.h
+
+1526331261 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\grafo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1526333330 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\grafo_naodirecionado_ponderado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1526333562 c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\grafo_naodirecionado_ponderado\grafo.h
+
+1526333536 source:c:\users\ffz12\desktop\universidade\terceiro semestre\aed2 - luiz gustavo\listasexercicios\listagrafos implementação\ex1\grafo_naodirecionado_ponderado\grafo.c
+	"Grafo.h"
+	<stdio.h>
+	<stdlib.h>
+
